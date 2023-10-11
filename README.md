@@ -1,2 +1,5 @@
 # ProiectPython
-Proiect in Python - mini magazin online
+Python Project - mini online bookstore
+
+#How to use the project
+
