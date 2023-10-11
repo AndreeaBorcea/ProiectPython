@@ -14,9 +14,27 @@ Python Project - mini online bookstore
 Or clone this project by typing in the bash the following command:
 git clone https://github.com/AndreeaBorcea/ProiectPython.git
 
-3. Unzip the archived file.
-4. Open the project with Pycharm Community or any other IDE.
-5. Run the project.
+2. Unzip the archived file.
+3. Open the project with Pycharm Community or any other IDE.
+
+   
+   ![image](https://github.com/AndreeaBorcea/ProiectPython/assets/147418797/d4d497cb-ba73-4310-8077-64b6eb0b7b11)
+
+
+![image](https://github.com/AndreeaBorcea/ProiectPython/assets/147418797/143898bf-8a65-469c-ae2c-09333b1f97e6)
+
+
+
+4. Run the project.
+In terminal folosim comanda:
+
+python manage.py runserver
+
+
+![image](https://github.com/AndreeaBorcea/ProiectPython/assets/147418797/402abc7a-1cc7-42c2-8d0e-0a94349d716e)
+
+
+
 
 
 **Screenshots:**
