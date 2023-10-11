@@ -31,7 +31,8 @@ In terminal use this command:
 python manage.py runserver
 
 
-![image](https://github.com/AndreeaBorcea/ProiectPython/assets/147418797/402abc7a-1cc7-42c2-8d0e-0a94349d716e)
+![image](https://github.com/AndreeaBorcea/ProiectPython/assets/147418797/12c37407-b452-45ed-bf85-7cf108eb71d6)
+
 
 
 
