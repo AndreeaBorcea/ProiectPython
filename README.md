@@ -26,7 +26,7 @@ git clone https://github.com/AndreeaBorcea/ProiectPython.git
 
 
 4. Run the project.
-In terminal folosim comanda:
+In terminal use this command:
 
 python manage.py runserver
 
